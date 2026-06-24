@@ -1,0 +1,4 @@
+interface:
+  display_name: "Runner"
+  short_description: "Run stateful approval-gated workflows"
+  default_prompt: "Use $runner to run a state-driven, contract-first coding workflow with approval gates, implementation autopilot, per-chunk commits, structural checks, dead-code cleanup, validation, and review-loop control."
